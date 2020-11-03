@@ -12,10 +12,23 @@ URL: www.twitch.tv/thebonktime
 
 ## Stream Elements
 
+### Notifications
+
 - Follow Notification
 - Host Notification
-- Intro Reel - The Final Bonkdoooooown
 - Headshot Notification
+
+### Panels
+
+- Schedule 
+- Social Media
+- Leaderboard
+- Get Bonked Up
+- Donate
+
+### Intro
+
+- Intro Reel - The Final Bonkdoooooown
 
 ## Overlays
 
