@@ -3,14 +3,13 @@
 [![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
 
 <a name="intro"></a> 
-# VACŌ - PROJECT TEMPLATE FRAMEWORK
-Vacō is a project template framework created for the purpose of unifying project structure across various types of endeavours and streamline the flow of information and data making it easier to nagivate and progress. Naming of the template comes from Latin word 'vacō' which translates into 'I am void'.
+# THE BONKTIME 
 
-![GALLERY DUAL](/assets/readme_visuals/vaco-dual-gallery.png)
+## Call Outs
 
-![GALLERY TRIPLE](/assets/readme_visuals/vaco-triple-gallery.png)
+- "It's the final bonkdown! Tururururururu"
+- "Got bonked" - headshot
 
-Fill the template structure with your own meaning, don't hesitate to make it yours. Modify the sections, omit or add elements as you please if a need arises. This template is supposed to work for you as fluid outline not as a rigid box - you know what you works best for a certain project, adjust accordingly.
 
 <a name="features"></a>
 ### Table of Contents
