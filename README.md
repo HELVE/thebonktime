@@ -40,3 +40,4 @@ URL: www.twitch.tv/thebonktime
 ## Games 
 
 - Valorant
+- League of Legends
