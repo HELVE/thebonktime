@@ -7,8 +7,9 @@ URL: www.twitch.tv/thebonktime
 
 ## Call Outs
 
-- "It's the final bonkdown! Tururururururu"
+- "It's the final bonkdown! Turururuuuu tu ru ru ru ruuuuuuu"
 - "Got bonked" - headshot
+- "Mess with the honk you get the bonk"
 
 ## Stream Elements
 
