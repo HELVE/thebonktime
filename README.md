@@ -1,7 +1,5 @@
 ![Project Banner](bonk.png)
 
-[![BANNERTAG](/assets/readme_visuals/helve-banner.png)](http://helve.live)
-
 <a name="intro"></a> 
 # THE BONKTIME 
 
